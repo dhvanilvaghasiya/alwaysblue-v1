@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/alwaysblue/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/alwaysblue/static/js/main.e80710cd.chunk.js",
-    "main.js.map": "/alwaysblue/static/js/main.e80710cd.chunk.js.map",
+    "main.css": "/alwaysblue/static/css/main.b03afa1e.chunk.css",
+    "main.js": "/alwaysblue/static/js/main.1298a70c.chunk.js",
+    "main.js.map": "/alwaysblue/static/js/main.1298a70c.chunk.js.map",
     "runtime-main.js": "/alwaysblue/static/js/runtime-main.a6eca7f3.js",
     "runtime-main.js.map": "/alwaysblue/static/js/runtime-main.a6eca7f3.js.map",
     "static/js/2.78376dc3.chunk.js": "/alwaysblue/static/js/2.78376dc3.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.91f3f7c8.chunk.js": "/alwaysblue/static/js/3.91f3f7c8.chunk.js",
     "static/js/3.91f3f7c8.chunk.js.map": "/alwaysblue/static/js/3.91f3f7c8.chunk.js.map",
     "index.html": "/alwaysblue/index.html",
-    "static/css/main.ea1455b2.chunk.css.map": "/alwaysblue/static/css/main.ea1455b2.chunk.css.map",
+    "static/css/main.b03afa1e.chunk.css.map": "/alwaysblue/static/css/main.b03afa1e.chunk.css.map",
     "static/js/2.78376dc3.chunk.js.LICENSE.txt": "/alwaysblue/static/js/2.78376dc3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a6eca7f3.js",
     "static/js/2.78376dc3.chunk.js",
-    "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.e80710cd.chunk.js"
+    "static/css/main.b03afa1e.chunk.css",
+    "static/js/main.1298a70c.chunk.js"
   ]
 }
